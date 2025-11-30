@@ -140,6 +140,8 @@ __Output__:
 
 ![WhatsApp Image 2025-11-30 at 12 08 55_2ffe5d85](https://github.com/user-attachments/assets/5e14fbcf-dc15-485a-9880-a82bacd17ed4)
 
+
+
 __Result__:
 
 Thus, the frequency division multiplexing(FDM) is done experimentally and output is verified.
